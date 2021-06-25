@@ -1,4 +1,4 @@
-### Hi there <img src = "https://cdn.discordapp.com/emojis/264698115544580096.png?v=1" high "20px" width="30px">
+### Hi there <img src = "https://cdn.discordapp.com/emojis/264698115544580096.png?v=1" high="20px" width="30px">
 
 <!--
 **catxrd/catxrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
