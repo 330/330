@@ -6,4 +6,4 @@
 <img src="https://komarev.com/ghpvc/?username=catxrd&label=Ziyaretçi%20Sayısı&color=23ffb7" alt="catxrd" />
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/377152186234437633?theme=light&bg=ffffff&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/377152186234437633)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/377152186234437633?theme=light&bg=ffffff&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/377152186234437633)
