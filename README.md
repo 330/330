@@ -5,4 +5,4 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/377152186234437633?theme=dark&bg=000e27&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/377152186234437633)
 
-<img src="https://count.getloli.com/get/@:330" alt=":330" />
+<img src="https://count.getloli.com/get/@:330?theme=rule34" alt=":330" />
