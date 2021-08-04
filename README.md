@@ -1,4 +1,4 @@
-### Hi there! <img src = "https://cdn.discordapp.com/emojis/859387292904980480.gif?v=1" high="20px" width="30px">
+### Merhaba! <img src = "https://cdn.discordapp.com/emojis/859387292904980480.gif?v=1" high="20px" width="30px">
 
 
 🌠Selam, ben Kedi. 16 yaşındayım. Bot fln yapmaya çalışıom tşkler.
