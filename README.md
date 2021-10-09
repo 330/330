@@ -11,7 +11,7 @@ const kedi = {
         backend: ["NodeJS", "express"],
         database: ["Mysql", "MongoDB"],
     },
-    languages: ["Nothing Develepor lmao."]
+    languages: ["Nothing developer lmao."]
 };
 ```
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/377152186234437633?theme=light&bg=ffffff&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/377152186234437633)
