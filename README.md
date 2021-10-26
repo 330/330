@@ -6,7 +6,7 @@ const kedi = {
     name: "Kadir",
     age: 15,
     from: "Turkey",
-    Discord: "kedi#0001",
+    Discord: "bal#0001",
     technologies: {
         backend: ["NodeJS", "express"],
         database: ["Mysql", "MongoDB"],
