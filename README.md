@@ -4,9 +4,9 @@
 ```js
 const kedi = {
     name: "Kadir",
-    age: 15,
+    age: 18,
     from: "Turkey",
-    Discord: "bal#0001",
+    Discord: "@kvdi",
     technologies: {
         backend: ["NodeJS", "express"],
         database: ["Mysql", "MongoDB"],
