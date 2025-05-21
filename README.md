@@ -4,7 +4,7 @@
 ```js
 const kedi = {
     name: "K",
-    age: 18,
+    age: 19,
     from: "Turkey",
     Discord: "@kvdi",
     technologies: {
